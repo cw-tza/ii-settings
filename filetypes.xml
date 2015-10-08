@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="15">
     <extensionMap>
+      <mapping ext="etx" type="XML" />
       <mapping ext="eti" type="XML" />
     </extensionMap>
   </component>
