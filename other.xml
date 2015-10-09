@@ -83,4 +83,7 @@
     <option name="KEEP_ITN_PASSWORD" value="false" />
     <option name="EMAIL" value="" />
   </component>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://guidewire.com/datamodel" location="C:/Guidewire/xsd/metadata/datamodel.xsd" />
+  </component>
 </application>
