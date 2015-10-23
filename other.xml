@@ -102,4 +102,7 @@
   <component name="ExternalResourceManagerImpl">
     <resource url="http://guidewire.com/datamodel" location="C:/Guidewire/xsd/metadata/datamodel.xsd" />
   </component>
+  <component name="NodeLocalInterpreterManager">
+    <node-interpreter path="C:/dev/nodejs/node.exe" version="4.1.2" last-modified="1444041210000" />
+  </component>
 </application>
