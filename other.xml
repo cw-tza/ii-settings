@@ -105,4 +105,24 @@
   <component name="NodeLocalInterpreterManager">
     <node-interpreter path="C:/dev/nodejs/node.exe" version="4.1.2" last-modified="1444041210000" />
   </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="http://dev-svn.pzu.pl/repo-code/production/everest/DSPCommon" />
+        <option value="http://dev-svn.pzu.pl/repo-code/production/everest/tools" />
+        <option value="http://dev-svn.pzu.pl/repo-code/production/everest/PolicyCenter" />
+        <option value="http://dev-svn.pzu.pl/repo-code/production/everest/ContactManager" />
+        <option value="http://dev-svn.pzu.pl/repo-code/production/everest/BillingCenter" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="http://dev-svn.pzu.pl/repo-code/production/everest/DSPCommon" />
+        <option value="http://dev-svn.pzu.pl/repo-code/production/everest/tools" />
+        <option value="http://dev-svn.pzu.pl/repo-code/production/everest/PolicyCenter" />
+        <option value="http://dev-svn.pzu.pl/repo-code/production/everest/ContactManager" />
+        <option value="http://dev-svn.pzu.pl/repo-code/production/everest/BillingCenter" />
+      </list>
+    </option>
+  </component>
 </application>
