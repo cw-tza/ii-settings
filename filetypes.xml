@@ -2,8 +2,10 @@
   <component name="FileTypeManager" version="16">
     <ignoreFiles list="*.hprof;*.iml;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.idea;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping ext="etx" type="XML" />
+      <mapping pattern=".tsdrc" type="JSON" />
+      <mapping pattern=".jshintrc" type="JSON" />
       <mapping ext="eti" type="XML" />
+      <mapping ext="etx" type="XML" />
       <mapping ext="dti" type="XML" />
     </extensionMap>
   </component>
