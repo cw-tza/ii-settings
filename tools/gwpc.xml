@@ -1,9 +1,0 @@
-<toolSet name="gwpc">
-  <tool name="regen-dictionary" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="C:\Guidewire\PolicyCenter\bin\gwpc.bat" />
-      <option name="PARAMETERS" value="regen-dictionary" />
-      <option name="WORKING_DIRECTORY" value="C:/Guidewire/PolicyCenter/bin" />
-    </exec>
-  </tool>
-</toolSet>
