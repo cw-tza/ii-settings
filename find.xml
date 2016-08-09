@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/Users/Tomek/dev/workflowmanager/vodwfm-portal/src/main/java/com/cubiware/vodwfm/portal/catalog/model/VodOfferContent.java'" />
-    <option name="defaultScopeName" value="File '/Users/Tomek/dev/workflowmanager/vodwfm-portal/src/main/java/com/cubiware/vodwfm/portal/catalog/model/VodOfferContent.java'" />
-    <option name="SEARCH_SCOPE" value="File '/Users/Tomek/dev/workflowmanager/vodwfm-portal/src/main/java/com/cubiware/vodwfm/portal/catalog/model/VodOfferContent.java'" />
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
   </component>
 </application>
