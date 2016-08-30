@@ -22,8 +22,12 @@
           <option name="url" value="https://github.com/waxxfetish/javaslang.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/KrzysztofBogdan/a2ui.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/dev" />
+    <option name="cloneParentDir" value="C:\Users\tza\dev" />
   </component>
 </application>
