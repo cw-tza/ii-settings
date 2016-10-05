@@ -2,8 +2,9 @@
   <option name="GENERATE_FINAL_LOCALS" value="true" />
   <option name="GENERATE_FINAL_PARAMETERS" value="true" />
   <option name="HTML_ATTRIBUTE_WRAP" value="2" />
+  <option name="HTML_TEXT_WRAP" value="0" />
   <option name="HTML_KEEP_BLANK_LINES" value="1" />
-  <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,thead,tbody,tfoot" />
+  <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html" />
   <GroovyCodeStyleSettings>
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="30" />
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="30" />
