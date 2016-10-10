@@ -3,6 +3,7 @@
     <ignoreFiles list="*.hprof;*.iml;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.idea;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="*html.bckp" type="HTML" />
+      <mapping pattern="vodwfm-console" type="JavaScript" />
       <mapping ext="logger" type="PLAIN_TEXT" />
       <mapping ext="wfmready" type="PLAIN_TEXT" />
       <mapping pattern="*.scala.xml" type="Play2" />
