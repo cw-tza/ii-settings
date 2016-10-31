@@ -7,6 +7,7 @@
       <mapping ext="logger" type="PLAIN_TEXT" />
       <mapping ext="wfmready" type="PLAIN_TEXT" />
       <mapping pattern="*.scala.xml" type="Play2" />
+      <mapping ext="adi" type="XML" />
     </extensionMap>
   </component>
 </application>
