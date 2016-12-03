@@ -1,0 +1,17 @@
+<templateSet group="JavaScript">
+  <template name="iife" value="(function() {&#10;&#10;  'use strict';&#10;  &#10;  $END$&#10;})();" description="Immediately invoked function expression" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="us" value="'use strict';&#10;$END$" description="Inserts 'use strict' statement" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="rq" value="require('$END$');" description="Inserts require statement" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
