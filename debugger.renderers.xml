@@ -57,6 +57,20 @@
           <option name="CHILDREN_EXPRESSION" value="toJavaMap()&#13;&#13;JAVA" />
         </Renderer>
       </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="javaslang.collection.HashMap" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="javaslang.collection.Map" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="javaslang.collection.Map" />
+          <option name="LABEL_EXPRESSION" value="toJavaMap()&#13;&#13;JAVA" />
+        </Renderer>
+        <Renderer ID="ExpressionChildrenRenderer" role="children">
+          <option name="QUALIFIED_NAME" value="javaslang.collection.Map" />
+          <option name="CHILDREN_EXPANDABLE" value="&#13;&#13;JAVA" />
+          <option name="CHILDREN_EXPRESSION" value="toJavaMap()&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
     </CustomRenderers>
   </component>
 </application>
