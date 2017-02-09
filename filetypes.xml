@@ -5,6 +5,7 @@
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="*html.bckp" type="HTML" />
       <mapping pattern="vodwfm-console" type="JavaScript" />
+      <mapping ext="cql" type="PLAIN_TEXT" />
       <mapping ext="wfmready" type="PLAIN_TEXT" />
       <mapping ext="logger" type="PLAIN_TEXT" />
       <mapping pattern="*.scala.xml" type="Play2" />
